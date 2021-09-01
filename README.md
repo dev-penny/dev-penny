@@ -1,4 +1,4 @@
-- 👋 Hi, I'm a junior front-end developer from Greece.
+- 👋 Hi, I'm Penny.
    I studied at the University of Thessaly in the Department of Informatics and Telecommunications.
    Welcome! 
 
