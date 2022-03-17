@@ -14,4 +14,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnype&show_icons=true&locale=en&layout=compact" alt="nnype" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nnype&show_icons=true&locale=en" alt="nnype" /></p>
+
