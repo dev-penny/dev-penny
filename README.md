@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fiori Apps**
 
-- 👨‍💻 All of my projects are available on my personal website [pennylioliou.me](pennylioliou.me)
+- 👩‍💻 All of my projects are available on my personal website [pennylioliou.me](pennylioliou.me)
 
 - 📫 How to reach me **liolioupenny@gmail.com**
 
