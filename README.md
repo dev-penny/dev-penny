@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Penny</h3>
 <h4 align="center">A passionate software developer from Greece</h4>
 
-- 🔭 I’m currently working on **Fiori Apps**
+- 💻 I’m currently working on **Fiori Apps**
 
 - 👩‍💻 All of my projects are available on my personal website [pennylioliou.me](pennylioliou.me)
 
