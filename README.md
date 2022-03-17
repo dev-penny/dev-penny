@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Penny</h1>
-<h3 align="center">A passionate software developer from Greece</h3>
+<h3 align="center">Hi 👋, I'm Penny</h3>
+<h4 align="center">A passionate software developer from Greece</h4>
 
 - 🔭 I’m currently working on **Fiori Apps**
 
