@@ -1,14 +1,10 @@
 <h3 align="center">Hi 👋, I'm Penny</h3>
 <h4 align="center">A passionate software developer from Greece</h4>
 
-- 💻 I’m currently working on **Fiori Apps**
-
-- 👩‍💻 All of my projects are available on my personal website [pennylioliou.me](http://pennylioliou.me/)
-
-- 📫 How to reach me **liolioupenny@gmail.com**
-
-- ⚡ Fun fact **“ Code is like humor. When you have to explain it, it’s bad.”**
-
+- I’m currently working on **Fiori Apps**
+- All of my projects are available on my personal website [pennylioliou.me](http://pennylioliou.me/)
+- How to reach me **liolioupenny@gmail.com**
+- Fun fact **“ Code is like humor. When you have to explain it, it’s bad.”**
 
 
 <h3 align="left">Languages and Tools:</h3>
