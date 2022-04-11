@@ -4,9 +4,9 @@
 
 
 - I’m currently working on **Fiori Apps**
+- Web developer in free time
 - All of my projects are available on my personal website [pennylioliou.me](http://pennylioliou.me/)
 - How to reach me **liolioupenny@gmail.com**
-- Web developer in free time
 - Fun fact **“ Code is like humor. When you have to explain it, it’s bad.”**
 
 
