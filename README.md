@@ -3,8 +3,7 @@
 
 
 
-- I’m currently working on **Fiori Apps**
-- Web developer in free time
+- I’m currently working on **web-based apps**
 - All of my projects are available on my personal website [pennylioliou.me](http://pennylioliou.me/)
 - How to reach me **liolioupenny@gmail.com**
 - Fun fact **“ Code is like humor. When you have to explain it, it’s bad.”**
