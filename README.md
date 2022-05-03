@@ -4,7 +4,7 @@
 
 
 - I’m currently working on **Business Apps**
-- All of my projects are available on my personal website [pennylioliou.me](http://pennylioliou.me/)
+- All of my mini-projects are available on my personal website [pennylioliou.me](http://pennylioliou.me/)
 - How to reach me **liolioupenny@gmail.com**
 - Fun fact **“ Code is like humor. When you have to explain it, it’s bad.”**
 
