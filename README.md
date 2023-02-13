@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Penny</h3>
 <h4 align="center">A passionate software developer from Greece</h4>
 
-I am a creative software developer, specialising in the app development arena. For the last 3 years, I have been developing web-based applications using front-end programming languages. Here you will find a small sample of projects I've developed.
+I am a creative software developer, specialising in the app development arena. For the last 3 years, I have been developing web-based applications using front-end programming languages. When I’m not working on software engineering projects, I'm spending time reading about the latest application development technologies. Here you will find a small sample of projects I've developed.
 
 
 <h3 align="left">Languages and Tools:</h3>
