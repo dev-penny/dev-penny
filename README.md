@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Penny</h3>
 <h4 align="center">A passionate software developer from Greece</h4>
 
-I am a software developer, specialising in the app development arena. For the last 3 years, I have been developing applications using front-end programming languages. Something that I love about software development is the opportunity to work with people from a wide range of disciplines. The software development lifecycle involves working with so many different people and departments and, as a people person and someone who loves to build new relationships, it’s great to be able to come together with other professionals who are striving towards the same goal.
+I am a creative software developer, specialising in the app development arena. For the last 3 years, I have been developing web-based applications using front-end programming languages. Something that I love about software development is the opportunity to work with people from a wide range of disciplines. The software development lifecycle involves working with so many different people and departments and, as a people person and someone who loves to build new relationships, it’s great to be able to come together with other professionals who are striving towards the same goal.
 
 
 <h3 align="left">Languages and Tools:</h3>
