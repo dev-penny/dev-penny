@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Penny</h3>
-<h4 align="center">A passionate software developer from Greece</h4>
-
+<h4 align="center">Welcome to my GitHub!</h4>
+Some things about me...
 I am a creative software developer, specialising in the app development arena. For the last 3 years, I have been developing web-based applications using front-end programming languages. I believe in personal development and growth, as well as life-long learning. I am always interested in new consepts and technologies so when I’m not working on software engineering projects, I'm spending time reading about the modern frameworks and latest technologies. Here you will find a small sample of projects I've developed.
 
 Also you can check my personal portfolio website [here](https://dev-penny.website/) :)
