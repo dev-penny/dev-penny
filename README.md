@@ -1,6 +1,7 @@
-<h3 align="center">Hi 👋, I'm Penny</h3>
-<h4 align="center">Welcome to my GitHub!</h4>
-Some things about me...
+<h3 align="center">Hey there! I'm Penny</h3>
+
+<h4 align="start">About me</h4>
+
 I am a creative software developer, specialising in the app development arena. For the last 3 years, I have been developing web-based applications using front-end programming languages. I believe in personal development and growth, as well as life-long learning. I am always interested in new consepts and technologies so when I’m not working on software engineering projects, I'm spending time reading about the modern frameworks and latest technologies. Here you will find a small sample of projects I've developed.
 
 Also you can check my personal portfolio website [here](https://dev-penny.website/) :)
